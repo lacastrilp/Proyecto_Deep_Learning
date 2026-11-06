@@ -2,8 +2,12 @@
 /es/
 /Voice.zip
 /CommonVoice_ASR/
+/.vscode/
 *.zip
 *.tar.gz
+*.safetensors
+*.bin
+*.pt
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
